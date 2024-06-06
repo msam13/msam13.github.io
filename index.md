@@ -5,66 +5,118 @@ title: Home
 
 # Welcome to My Portfolio
 
-![Samridha Murali](photo.jpg)
-
-Hello! I'm Samridha Murali, an Engineer. Welcome to my portfolio.
-
 ## About Me
 
-[Link to About page](about.md)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    Hello! I'm Samridha Murali, an Engineer. Welcome to my portfolio.
+    <!-- Additional About Me content can go here. -->
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <img src="photo.jpg" alt="Samridha Murali" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 ## Projects
 
-### Computer Vision ML Projects
+<div style="display: flex; justify-content: space-between;">
 
-[Link to Computer Vision ML Projects page](computer_vision_ml_projects.md)
+  <div style="flex: 1; padding: 10px;">
+    <h3>Computer Vision ML Projects</h3>
 
-1. **Project 1: Project Name**
+    [Link to Computer Vision ML Projects page](computer_vision_ml_projects.md)
 
-   - **Overview:** Brief overview of the project.
-   - **Technical Approach:** Explanation of the technical approach used.
-   - **Media Files and Links:**
-     - [Link to media file 1](#)
-     - [Link to media file 2](#)
+    <ul>
+      <li>
+        <strong>Project 1: Project Name</strong>
+        <ul>
+          <li><strong>Overview:</strong> Brief overview of the project.</li>
+          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
+          <li><strong>Media Files and Links:</strong>
+            <ul>
+              <li>[Link to media file 1](#)</li>
+              <li>[Link to media file 2](#)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Project 2: Project Name</strong>
+        <ul>
+          <li><strong>Overview:</strong> Brief overview of the project.</li>
+          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
+          <li><strong>Media Files and Links:</strong>
+            <ul>
+              <li>[Link to media file 1](#)</li>
+              <li>[Link to media file 2](#)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Project 3: Project Name</strong>
+        <ul>
+          <li><strong>Overview:</strong> Brief overview of the project.</li>
+          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
+          <li><strong>Media Files and Links:</strong>
+            <ul>
+              <li>[Link to media file 1](#)</li>
+              <li>[Link to media file 2](#)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
 
-2. **Project 2: Project Name**
+  </div>
 
-   - **Overview:** Brief overview of the project.
-   - **Technical Approach:** Explanation of the technical approach used.
-   - **Media Files and Links:**
-     - [Link to media file 1](#)
-     - [Link to media file 2](#)
+  <div style="flex: 1; padding: 10px;">
+    <h3>Cyber Security Projects</h3>
 
-3. **Project 3: Project Name**
-   - **Overview:** Brief overview of the project.
-   - **Technical Approach:** Explanation of the technical approach used.
-   - **Media Files and Links:**
-     - [Link to media file 1](#)
-     - [Link to media file 2](#)
+    [Link to Cyber Security Projects page](cyber_security_projects.md)
 
-### Cyber Security Projects
+    <ul>
+      <li>
+        <strong>Project 1: Project Name</strong>
+        <ul>
+          <li><strong>Overview:</strong> Brief overview of the project.</li>
+          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
+          <li><strong>Media Files and Links:</strong>
+            <ul>
+              <li>[Link to media file 1](#)</li>
+              <li>[Link to media file 2](#)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Project 2: Project Name</strong>
+        <ul>
+          <li><strong>Overview:</strong> Brief overview of the project.</li>
+          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
+          <li><strong>Media Files and Links:</strong>
+            <ul>
+              <li>[Link to media file 1](#)</li>
+              <li>[Link to media file 2](#)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <strong>Project 3: Project Name</strong>
+        <ul>
+          <li><strong>Overview:</strong> Brief overview of the project.</li>
+          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
+          <li><strong>Media Files and Links:</strong>
+            <ul>
+              <li>[Link to media file 1](#)</li>
+              <li>[Link to media file 2](#)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
 
-[Link to Cyber Security Projects page](cyber_security_projects.md)
+  </div>
 
-1. **Project 1: Project Name**
-
-   - **Overview:** Brief overview of the project.
-   - **Technical Approach:** Explanation of the technical approach used.
-   - **Media Files and Links:**
-     - [Link to media file 1](#)
-     - [Link to media file 2](#)
-
-2. **Project 2: Project Name**
-
-   - **Overview:** Brief overview of the project.
-   - **Technical Approach:** Explanation of the technical approach used.
-   - **Media Files and Links:**
-     - [Link to media file 1](#)
-     - [Link to media file 2](#)
-
-3. **Project 3: Project Name**
-   - **Overview:** Brief overview of the project.
-   - **Technical Approach:** Explanation of the technical approach used.
-   - **Media Files and Links:**
-     - [Link to media file 1](#)
-     - [Link to media file 2](#)
+</div>
