@@ -1,3 +1,8 @@
 title: My GitHub Page
 description: A brief description of my site
 theme: jekyll-theme-cayman
+url: "https://<your-username>.github.io"
+baseurl: "/<your-repository-name>"
+author: 
+  name: Your Name
+  email: your-email@example.com
