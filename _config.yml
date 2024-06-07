@@ -3,6 +3,22 @@ description: A brief description of my site
 theme: jekyll-theme-slate
 url: "https://msam13.github.io/.github.io"
 baseurl: "/samridhamurali.github.io"
-author: 
+author:
   name: Samridha Murali
   email: msamridha16@gmail.com
+
+# Custom CSS
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
+
+# Custom CSS file
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+      css: /assets/css/custom.css

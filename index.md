@@ -3,7 +3,13 @@ layout: default
 title: Home
 ---
 
+{% include head.html %}
+
 # Welcome to My Portfolio
+
+![Samridha Murali](photo.jpg)
+
+Hello! I'm Samridha Murali, an Engineer. Welcome to my portfolio.
 
 ## About Me
 
