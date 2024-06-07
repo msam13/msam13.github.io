@@ -3,7 +3,11 @@ layout: default
 title: Home
 ---
 
-{% include head.html %}
+# Welcome to My Portfolio
+
+![Samridha Murali](photo.jpg)
+
+Hello! I'm Samridha Murali, an Engineer. Welcome to my portfolio.
 
 ## About Me
 
@@ -20,12 +24,9 @@ title: Home
 ## Projects
 
 <div style="display: flex; justify-content: space-between;">
-
   <div style="flex: 1; padding: 10px;">
     <h3>Computer Vision ML Projects</h3>
-
     [Link to Computer Vision ML Projects page](computer_vision_ml_projects.md)
-
     <ul>
       <li>
         <strong>Project 1: Project Name</strong>
@@ -40,41 +41,12 @@ title: Home
           </li>
         </ul>
       </li>
-      <li>
-        <strong>Project 2: Project Name</strong>
-        <ul>
-          <li><strong>Overview:</strong> Brief overview of the project.</li>
-          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
-          <li><strong>Media Files and Links:</strong>
-            <ul>
-              <li>[Link to media file 1](#)</li>
-              <li>[Link to media file 2](#)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <strong>Project 3: Project Name</strong>
-        <ul>
-          <li><strong>Overview:</strong> Brief overview of the project.</li>
-          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
-          <li><strong>Media Files and Links:</strong>
-            <ul>
-              <li>[Link to media file 1](#)</li>
-              <li>[Link to media file 2](#)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
+      <!-- Add other projects here -->
     </ul>
-
   </div>
-
   <div style="flex: 1; padding: 10px;">
     <h3>Cyber Security Projects</h3>
-
     [Link to Cyber Security Projects page](cyber_security_projects.md)
-
     <ul>
       <li>
         <strong>Project 1: Project Name</strong>
@@ -89,34 +61,7 @@ title: Home
           </li>
         </ul>
       </li>
-      <li>
-        <strong>Project 2: Project Name</strong>
-        <ul>
-          <li><strong>Overview:</strong> Brief overview of the project.</li>
-          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
-          <li><strong>Media Files and Links:</strong>
-            <ul>
-              <li>[Link to media file 1](#)</li>
-              <li>[Link to media file 2](#)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <strong>Project 3: Project Name</strong>
-        <ul>
-          <li><strong>Overview:</strong> Brief overview of the project.</li>
-          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
-          <li><strong>Media Files and Links:</strong>
-            <ul>
-              <li>[Link to media file 1](#)</li>
-              <li>[Link to media file 2](#)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
+      <!-- Add other projects here -->
     </ul>
-
   </div>
-
 </div>
