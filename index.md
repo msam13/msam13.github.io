@@ -20,7 +20,7 @@ title: Home
 <div style="display: flex; justify-content: space-between;">
  <div style="flex: 1; padding: 10px;">
   <h3>Computer Vision Projects</h3>
-  <a href="https://msam13.github.io/samridhamurali.github.io/computer_vision_ml_projects.md">Link to Computer Vision ML Projects page</a>
+  <a href="{{ site.baseurl }}computer_vision_projects.md">Link to Computer Vision ML Projects page</a>
   <p>Explore my top computer vision projects, showcasing innovative techniques and implementations to solve complex visual tasks.</p>
   <ul>
     <li><strong>2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)</strong></li>
@@ -31,7 +31,7 @@ title: Home
 </div>
   <div style="flex: 1; padding: 10px;">
   <h3>Cyber Security Projects</h3>
-  <a href="https://msam13.github.io/samridhamurali.github.io/cyber_security_projects.md">Link to Cyber Security Projects page</a>
+  <a href="{{ site.baseurl }}cyber_security_projects.md">Link to Cyber Security Projects page</a>
   <p>Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats.</p>
   <ul>
     <li><strong>Wyze Cam Firmware Analysis</strong></li>
