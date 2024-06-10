@@ -33,7 +33,7 @@ title: Cyber Security Projects
 
 **Media Files and Links:**
 
-- [Link to SOC Analysis Report](#)
+- [Link to SOC Analysis Report](https://github.com/msam13/samridhamurali.github.io/blob/main/soc_Report.pdf)
 
 ## 4. Penetration Testing
 
@@ -53,4 +53,4 @@ title: Cyber Security Projects
 
 **Media Files and Links:**
 
-- [Link to Cloud Security - AWS Report](#)
+- [Link to Cloud Security - AWS Report](https://github.com/msam13/samridhamurali.github.io/blob/main/cloudsec_report.pdf)

@@ -39,25 +39,17 @@ title: Home
     </ul>
   </div>
   <div style="flex: 1; padding: 10px;">
-    <h3>Cyber Security Projects</h3>
-    [Link to Cyber Security Projects page](cyber_security_projects.md)
-    <ul>
-      <li>
-        <strong>Project 1: Project Name</strong>
-        <ul>
-          <li><strong>Overview:</strong> Brief overview of the project.</li>
-          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
-          <li><strong>Media Files and Links:</strong>
-            <ul>
-              <li>[Link to media file 1](#)</li>
-              <li>[Link to media file 2](#)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <!-- Add other projects here -->
-    </ul>
-  </div>
+  <h3>Cyber Security Projects</h3>
+  [Link to Cyber Security Projects page](cyber_security_projects.md)
+  <p>Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats.</p>
+  <ul>
+    <li><strong>Wyze Cam Firmware Analysis</strong></li>
+    <li><strong>FreeBSD RootKit Recon</strong></li>
+    <li><strong>SOC Analysis</strong></li>
+    <li><strong>Penetration Testing</strong></li>
+    <li><strong>Cloud Security - AWS</strong></li>
+  </ul>
+</div>
 </div>
 
 ## Blogs
