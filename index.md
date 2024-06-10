@@ -18,29 +18,20 @@ title: Home
 ## Projects
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding: 10px;">
-    <h3>Computer Vision ML Projects</h3>
-    [Link to Computer Vision ML Projects page](computer_vision_ml_projects.md)
-    <ul>
-      <li>
-        <strong>Project 1: Project Name</strong>
-        <ul>
-          <li><strong>Overview:</strong> Brief overview of the project.</li>
-          <li><strong>Technical Approach:</strong> Explanation of the technical approach used.</li>
-          <li><strong>Media Files and Links:</strong>
-            <ul>
-              <li>[Link to media file 1](#)</li>
-              <li>[Link to media file 2](#)</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <!-- Add other projects here -->
-    </ul>
-  </div>
+ <div style="flex: 1; padding: 10px;">
+  <h3>Computer Vision ML Projects</h3>
+  <a href="computer_vision_ml_projects.md">Link to Computer Vision ML Projects page</a>
+  <p>Explore my top computer vision projects, showcasing innovative techniques and implementations to solve complex visual tasks.</p>
+  <ul>
+    <li><strong>2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)</strong></li>
+    <li><strong>Structure from Motion (using Python, Numpy, OpenCV, GPU)</strong></li>
+    <li><strong>Camera Calibration (Calculate camera intrinsics and extrinsic using chess board)</strong></li>
+    <li><strong>Digit Classifier Using PyTorch</strong></li>
+  </ul>
+</div>
   <div style="flex: 1; padding: 10px;">
   <h3>Cyber Security Projects</h3>
-  [Link to Cyber Security Projects page](cyber_security_projects.md)
+  <a href="cyber_security_projects.md">Link to Cyber Security Projects page</a>
   <p>Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats.</p>
   <ul>
     <li><strong>Wyze Cam Firmware Analysis</strong></li>
