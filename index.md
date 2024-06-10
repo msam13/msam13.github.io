@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Portfolio
-
-![Samridha Murali](photo.jpg)
-
-Hello! I'm Samridha Murali, an Engineer. Welcome to my portfolio.
-
 ## About Me
 
 <div style="display: flex; align-items: center;">
