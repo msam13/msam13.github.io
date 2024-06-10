@@ -17,10 +17,9 @@ title: Home
 
 ## Projects
 
-<div style="display: flex; justify-content: space-between;">
- <div style="flex: 1; padding: 10px;">
+<div style="flex: 1; padding: 10px;">
   <h3>Computer Vision ML Projects</h3>
-  <a href="computer_vision_ml_projects.md">Link to Computer Vision ML Projects page</a>
+  <a href="{{ site.baseurl }}/computer_vision_projects.md">Link to Computer Vision ML Projects page</a>
   <p>Explore my top computer vision projects, showcasing innovative techniques and implementations to solve complex visual tasks.</p>
   <ul>
     <li><strong>2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)</strong></li>
@@ -29,9 +28,10 @@ title: Home
     <li><strong>Digit Classifier Using PyTorch</strong></li>
   </ul>
 </div>
-  <div style="flex: 1; padding: 10px;">
+
+<div style="flex: 1; padding: 10px;">
   <h3>Cyber Security Projects</h3>
-  <a href="cyber_security_projects.md">Link to Cyber Security Projects page</a>
+  <a href="{{ site.baseurl }}/cyber_security_projects.md">Link to Cyber Security Projects page</a>
   <p>Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats.</p>
   <ul>
     <li><strong>Wyze Cam Firmware Analysis</strong></li>
@@ -41,8 +41,6 @@ title: Home
     <li><strong>Cloud Security - AWS</strong></li>
   </ul>
 </div>
-</div>
-
 ## Blogs
 
 Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022. [Read more on the Blog page](blogs.md).
