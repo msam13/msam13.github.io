@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-[LinkedIn](https://www.linkedin.com/in/m-samridha/) | [Twitter](https://x.com/murali_samridha) | [Email](mailto:msamridha16@gmail.com) | [Resume](https://docs.google.com/document/d/16qNNTf1iqsf-tbuVGM3cxHulZHWiCrAaN-g9qMXh0Tc/edit?usp=sharing)
-
 ## About Me
 
 <div style="display: flex; align-items: center;">
@@ -31,8 +29,16 @@ title: Home
 
 ## Blogs
 
-Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022. [Read more on the Blog page](blogs.md).
+Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
+
+[Read more on the Blog page](blogs.md).
 
 ## Publications
 
-Discover my research on knowledge representation, an emerging field in AI, Big Data, Semantic Web, and Data Mining. My work proposes a simple yet highly effective method for representing knowledge that enhances expressiveness and accuracy in semantic networks, even with the inherent vagueness of natural language. [Read more on the Publications page](publications.md).
+my research on knowledge representation, an emerging field in AI, Big Data, Semantic Web, and Data Mining.
+
+[Read more on the Publications page](publications.md).
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/m-samridha/) · [Twitter](https://x.com/murali_samridha) · [Email](mailto:msamridha16@gmail.com) · [Resume](https://docs.google.com/document/d/16qNNTf1iqsf-tbuVGM3cxHulZHWiCrAaN-g9qMXh0Tc/edit?usp=sharing)
