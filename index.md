@@ -23,7 +23,7 @@ title: Home
 | Explore my top computer vision projects, showcasing innovative techniques and implementations to solve complex visual tasks. | Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats. |
 | - **2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)**                                                                | - **Wyze Cam Firmware Analysis**                                                                                                                   |
 | - **Structure from Motion (using Python, Numpy, OpenCV, GPU)**                                                               | - **FreeBSD RootKit Recon**                                                                                                                        |
-| - **Camera Calibration (Calculate camera intrinsics and extrinsic using chess board)**                                       | - **SOC Analysis**                                                                                                                                 |
+| - **Camera Calibration (Calculating camera intrinsics and extrinsic using chess board)**                                     | - **SOC Analysis**                                                                                                                                 |
 | - **Digit Classifier Using PyTorch**                                                                                         | - **Penetration Testing**                                                                                                                          |
 |                                                                                                                              | - **Cloud Security - AWS**                                                                                                                         |
 
@@ -32,6 +32,12 @@ title: Home
 Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
 
 Read more on the [Blog page](blogs.md).
+
+## Products
+
+Developed a complete end-to-end web application for delivering high-fidelity 3D models (3D reconstruction engine based on implicit Neural representation) of house interiors for the real estate industry.
+
+Get 3D model of your room at <http://3-dready.com/>
 
 ## Publications
 
