@@ -19,7 +19,7 @@ title: Home
 
 | Computer Vision Projects                                                                                                     | Cyber Security Projects                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Link to Computer Vision ML Projects page](computer_vision_ml_projects.md)                                                   | [Link to Cyber Security Projects page](cyber_security_projects.md)                                                                                 |
+| Link to [Computer Vision Projects page](computer_vision_ml_projects.md)                                                      | Link to [Cyber Security Projects page](cyber_security_projects.md)                                                                                 |
 | Explore my top computer vision projects, showcasing innovative techniques and implementations to solve complex visual tasks. | Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats. |
 | - **2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)**                                                                | - **Wyze Cam Firmware Analysis**                                                                                                                   |
 | - **Structure from Motion (using Python, Numpy, OpenCV, GPU)**                                                               | - **FreeBSD RootKit Recon**                                                                                                                        |
@@ -31,13 +31,13 @@ title: Home
 
 Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
 
-[Read more on the Blog page](blogs.md).
+Read more on the [Blog page](blogs.md).
 
 ## Publications
 
 my research on knowledge representation, an emerging field in AI, Big Data, Semantic Web, and Data Mining.
 
-[Read more on the Publications page](publications.md).
+Read more on the [Publications page](publications.md).
 
 ## Links
 
