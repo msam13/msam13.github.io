@@ -7,14 +7,11 @@ title: Home
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <h1>Hi, I'm Samridha Murali!</h1>
-    <p>
-      Hello! I'm Samridha Murali. Welcome to my portfolio. On the right is a photo of me from March 2024, when I visited San Francisco for the first time. I loved the Californian energy, so post-graduation I moved to THE SILICON VALLEY. The past doesn't matter, but anyways, a little about my past: I graduated from [University of Maryland](https://umd.edu/) with a Master's degree in Engineering (Cyber Security and Software Engineering). At the University of Maryland, I worked at [CATT labs](https://www.cattlab.umd.edu/). During the pandemic, I did a lot, including an awesome internship at Honeywell & HPE, published a [paper](https://www.ijeat.org/wp-content/uploads/papers/v10i1/A17981010120.pdf), and also finished my Bachelor's degree at [Manipal Institute of Technology](https://www.manipal.edu/mit.html). Always spreading [love](#).
-    </p>
+    Hello! I'm Samridha Murali. Welcome to my portfolio. On the right is a photo of me from March 2024, when I visited San Fransico for the first time. I loved the Californian Energy, so post graduation I moved to THE SILLICON VALLEY, worked for <a href="https://scale.com/">ScaleAI</a> and co-founded <a href="http://3-dready.com/">3D-Ready</a> . The past doesn't matter, but anyways, a little into my past, I graduated from <a href="https://umd.edu/">Univesity of Maryland</a> with a Master's degree in Engineering (Cyber Security and Software Engineering). In University of Maryland, I worked for <a href="https://www.cattlab.umd.edu/">CATT lab</a>. During Pandemic I did a lot, including an awesome intership at <a href="https://www.honeywell.com/us/en">Honeywell</a> & <a href="https://www.hpe.com/us/en/home.html">HPE</a>, published a <a href="https://www.ijeat.org/wp-content/uploads/papers/v10i1/A17981010120.pdf"> Paper</a>, and also finished my Bachelor's degree in Computer Science and Engineer at <a href="https://www.manipal.edu/mit.html">Manipal Institute of Technology</a>. I build with LOVE ❤️ 
     <!-- Additional About Me content can go here. -->
   </div>
   <div style="flex: 1; padding-left: 20px;">
-    <img src="{{ site.baseurl }}/assets/images/photo.jpg" alt="Samridha Murali" style="max-width: 100%; height: auto;">
+    <img src="photo.jpg" alt="Samridha Murali" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
