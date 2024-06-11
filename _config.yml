@@ -6,6 +6,9 @@ baseurl: "/"
 author:
   name: Samridha Murali
   email: msamridha16@gmail.com
+  linkedin: "https://www.linkedin.com/in/m-samridha/"
+  twitter: "https://x.com/murali_samridha"
+  phone: "240-610-3450"
 
 # Custom CSS
 sass:
