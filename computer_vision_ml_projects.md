@@ -35,12 +35,13 @@ title: Computer Vision Projects
 
 - [Link to Camera Calibration Repository](#)
 
-## 4. Digit Classifier Using PyTorch
+## 4. Image Classifier Using PyTorch
 
-**Overview:** This project involves building a digit classifier using the PyTorch deep learning framework to accurately classify handwritten digits.
+**Overview:** Developed a PyTorch-based image classification project to accurately categorize images into predefined classes, demonstrating proficiency in deep learning and computer vision.
 
-**Technical Approach:** The digit classifier is implemented using PyTorch, leveraging neural networks to achieve high accuracy in digit recognition.
+
+**Technical Approach:** Implemented a Convolutional Neural Network (CNN) with multiple convolutional and fully connected layers, utilizing ReLU activation, max pooling, and backpropagation for training, while leveraging the Stochastic Gradient Descent (SGD) optimizer and cross-entropy loss for efficient learning.
 
 **Media Files and Links:**
 
-- [Link to Digit Classifier Using PyTorch Repository](#)
+- [Link to Digit Classifier Using PyTorch Repository](https://github.com/msam13/CNNImageClassifier)
