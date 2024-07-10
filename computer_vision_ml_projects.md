@@ -5,7 +5,7 @@ title: Computer Vision Projects
 
 # Computer Vision Projects
 
-## Custom CPU Build for ML Experiments
+## Custom CPU for ML Experiments
 
 **Overview:** Built a custom CPU from scratch specifically for running machine learning experiments.
 
