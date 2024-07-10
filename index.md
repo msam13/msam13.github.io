@@ -37,6 +37,18 @@ Explore detailed analyses and insights on various cyber attacks that occurred in
 
 Developed a complete end-to-end web application for delivering high-fidelity 3D models (3D reconstruction engine based on implicit Neural representation) of house interiors for the real estate industry.
 
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/product1.png" alt="Product 1" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/product2.png" alt="Product 2" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/product3.png" alt="Product 3" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
 Get 3D model of your room at <https://3-dready.com/>
 
 ## Publications
