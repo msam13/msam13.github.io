@@ -10,17 +10,19 @@ title: Computer Vision Projects
 **Overview:** Built a custom CPU from scratch specifically for running machine learning experiments.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1 1 50%; padding: 10px;">
-    <img src="images/CVimages/build1.jpg" alt="CPU Overview" style="max-width: 100%; height: auto;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/CVimages/build1.jpg" alt="Product 1" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 1 1 50%; padding: 10px;">
-    <img src="images/CVimages/build2.jpg" alt="Component 1" style="max-width: 100%; height: auto;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/CVimages/build2.jpg" alt="Product 3" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 1 1 50%; padding: 10px;">
-    <img src="images/CVimages/build3.jpg" alt="Component 2" style="max-width: 100%; height: auto;">
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/CVimages/build3.jpg" alt="Product 1" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 1 1 50%; padding: 10px;">
-    <img src="images/CVimages/build4.jpg" alt="Component 3" style="max-width: 100%; height: auto;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/CVimages/build4.jpg" alt="Product 3" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
