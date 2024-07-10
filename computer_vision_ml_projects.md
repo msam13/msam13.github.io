@@ -36,6 +36,20 @@ title: Computer Vision Projects
   </div>
 </div>
 
+## Experiment : NeRF Fox
+
+ **Overview:** This project creating a Neural Radiance Field (NeRF) of a fox using instant NGP. The result is a high-fidelity 3D representation of the fox that can be rendered from various viewpoints.
+
+**Technical Approach:** - 
+- instant NGP: For generating the NeRF.
+- Python: For scripting and automation.
+- CUDA: For GPU acceleration.
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://youtu.be/nDbLZIRgzNE" frameborder="0" allowfullscreen></iframe>
+
+
 ## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
 
 **Overview:** This project involves fitting 2D images using Kolmogorov–Arnold Networks (KAN) to improve image representation and reconstruction.
@@ -68,10 +82,14 @@ title: Computer Vision Projects
 
 ## Image Classifier Using PyTorch
 
-**Overview:** Developed a PyTorch-based image classification project to accurately categorize images into predefined classes, demonstrating proficiency in deep learning and computer vision.
+**Overview:** Rebuilt the OG PyTorch-based image classification project to accurately categorize images into predefined classes, demonstrating proficiency in deep learning and computer vision.
 
 **Technical Approach:** Implemented a Convolutional Neural Network (CNN) with multiple convolutional and fully connected layers, utilizing ReLU activation, max pooling, and backpropagation for training, while leveraging the Stochastic Gradient Descent (SGD) optimizer and cross-entropy loss for efficient learning. Model trained on CIFAR10 datatset.
 
 **Media Files and Links:**
 
 - [Link to Digit Classifier Using PyTorch Repository](https://github.com/msam13/CNNImageClassifier)
+
+  <div style="flex: 1; padding: 10px;">
+    <img src="msam13.github.io/images/imageclassifier.png" alt="Product 3" style="max-width: 100%; height: auto;">
+  </div>
