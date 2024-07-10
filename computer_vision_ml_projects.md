@@ -47,7 +47,7 @@ title: Computer Vision Projects
 
 **Media Files and Links:**
 
-<iframe width="560" height="315" src="https://youtu.be/nDbLZIRgzNE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nDbLZIRgzNE?si=YA8Fk6nYM_gUgNSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
