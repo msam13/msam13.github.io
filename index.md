@@ -35,7 +35,7 @@ Explore detailed analyses and insights on various cyber attacks that occurred in
 
 ## Products
 
-Developed a complete end-to-end web application for delivering high-fidelity 3D models (3D reconstruction engine based on implicit Neural representation) of house interiors for the real estate industry.
+Developed a complete end-to-end web application and Server infrasture (Hybrid cloud) for delivering high-fidelity 3D models (3D reconstruction engine based on implicit Neural representation) of house interiors for the real estate industry. 
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
@@ -51,6 +51,12 @@ Get 3D model of your room at <https://3-dready.com/>
 ## Publications
 
 my research on knowledge representation, an emerging field in AI, Big Data, Semantic Web, and Data Mining.
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/paper1.png" alt="Product 1" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 [Read more on the Publications page](publications.md).
 
