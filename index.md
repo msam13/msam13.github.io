@@ -42,9 +42,6 @@ Developed a complete end-to-end web application for delivering high-fidelity 3D 
     <img src="images/product1.png" alt="Product 1" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1; padding: 10px;">
-    <img src="images/product2.png" alt="Product 2" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; padding: 10px;">
     <img src="images/product3.png" alt="Product 3" style="max-width: 100%; height: auto;">
   </div>
 </div>
