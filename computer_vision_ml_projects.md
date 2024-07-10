@@ -5,7 +5,26 @@ title: Computer Vision Projects
 
 # Computer Vision Projects
 
-## 1. 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
+## Custom CPU Build for ML Experiments
+
+**Overview:** Built a custom CPU from scratch specifically for running machine learning experiments.
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1 1 50%; padding: 10px;">
+    <img src="images/CVimages/build1.jpg" alt="CPU Overview" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 50%; padding: 10px;">
+    <img src="images/CVimages/build2.jpg" alt="Component 1" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 50%; padding: 10px;">
+    <img src="images/CVimages/build3.jpg" alt="Component 2" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1 1 50%; padding: 10px;">
+    <img src="images/CVimages/build4.jpg" alt="Component 3" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
+## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
 
 **Overview:** This project involves fitting 2D images using Kolmogorov–Arnold Networks (KAN) to improve image representation and reconstruction.
 
@@ -15,7 +34,7 @@ title: Computer Vision Projects
 
 - [Link to 2D Image Fitting Using KAN Repository](#)
 
-## 2. Structure from Motion
+## Structure from Motion
 
 **Overview:** This project focuses on the structure from motion (SfM) technique using Python, Numpy, OpenCV, and GPU to reconstruct 3D structures from 2D images.
 
@@ -25,7 +44,7 @@ title: Computer Vision Projects
 
 - [Link to Structure from Motion Repository](#)
 
-## 3. Camera Calibration
+## Camera Calibration
 
 **Overview:** This project involves calculating camera intrinsics and extrinsics using a chess board pattern for camera calibration.
 
@@ -35,10 +54,9 @@ title: Computer Vision Projects
 
 - [Link to Camera Calibration Repository](#)
 
-## 4. Image Classifier Using PyTorch
+## Image Classifier Using PyTorch
 
 **Overview:** Developed a PyTorch-based image classification project to accurately categorize images into predefined classes, demonstrating proficiency in deep learning and computer vision.
-
 
 **Technical Approach:** Implemented a Convolutional Neural Network (CNN) with multiple convolutional and fully connected layers, utilizing ReLU activation, max pooling, and backpropagation for training, while leveraging the Stochastic Gradient Descent (SGD) optimizer and cross-entropy loss for efficient learning. Model trained on CIFAR10 datatset.
 

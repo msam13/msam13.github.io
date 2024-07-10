@@ -50,7 +50,7 @@ Get 3D model of your room at <https://3-dready.com/>
 
 ## Publications
 
-my research on knowledge representation, an emerging field in AI, Big Data, Semantic Web, and Data Mining.
+My research on knowledge representation, an emerging field in LLM, ML , Big Data, Semantic Web, and Data Mining.
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
