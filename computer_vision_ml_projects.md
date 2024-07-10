@@ -68,7 +68,11 @@ title: Computer Vision Projects
 
 **Media Files and Links:**
 
-- [Link to Structure from Motion Repository](#)
+- COLAMP SMF
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AKy6pkxb6Zc?si=RB3QLBeCKmMY_qtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- COLMAP POINTCLOUD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5iAL4NZKW_0?si=LskwNymogwJCvmCb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Camera Calibration
 
@@ -78,11 +82,7 @@ title: Computer Vision Projects
 
 **Media Files and Links:**
 
-- COLAMP SMF
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AKy6pkxb6Zc?si=RB3QLBeCKmMY_qtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- COLMAP POINTCLOUD
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5iAL4NZKW_0?si=LskwNymogwJCvmCb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- [Link to Structure from Motion Repository](#)
  
 ## Image Classifier Using PyTorch
 
