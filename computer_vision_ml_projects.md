@@ -10,6 +10,7 @@ title: Computer Vision Projects
 **Overview:** Built a custom CPU from scratch specifically for running machine learning experiments.
 
 **Components Used:**
+
 - **Motherboard**: [ASRock X670E TAICHI CARRARA](https://www.amazon.com/ASRock-X670E-Carrara-Processors-Motherboard/dp/B0BGPGH6WG)
 - **CPU**: [AMD Ryzen 9 7000 series 16 core 32 thread](https://www.amazon.com/AMD-Ryzen-7950X3D-Hexadeca-core-Processor/dp/B0BTRH9MNS/ref=asc_df_B0BTRH9MNS/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=16695656210843621867&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032188&hvtargid=pla-2281435182178&psc=1&mcid=5e8c836c59dd345693791cc7774e27b0&hvocijid=16695656210843621867-B0BTRH9MNS-&hvexpln=73&gad_source=1)
 - **GPU**: [Nvidia GEFORCE RTX 4090 24GB](https://www.amazon.com/PNY-GeForce-RTXTM-4090-Triple-Graphics/dp/B0BHBTJ2X2/ref=asc_df_B0BHBTJ2X2/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=513373364324449578&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032188&hvtargid=pla-2281435180498&psc=1&mcid=a87160cbd7673419ab1d1acbda190734&hvocijid=513373364324449578-B0BHBTJ2X2-&hvexpln=73&gad_source=1)
@@ -17,7 +18,6 @@ title: Computer Vision Projects
 - **Hard Drive**: [WD - BLACK SN850X 2TB](https://www.amazon.com/WD_BLACK-SN850X-Internal-Gaming-Solid/dp/B0B7CMZ3QH)
 - **Power Supply**: [Gamemax 1300w](https://www.amazon.com/GAMEMAX-Addressable-Motherboard-105%C2%B0C-Rated-Capacitors/dp/B0BCKHHVYW/ref=asc_df_B0BCKHHVYW/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=3473661350933650431&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032188&hvtargid=pla-2281435180058&psc=1&mcid=4916f6ee34c33a3bb00e04a893bb1e9a&hvocijid=3473661350933650431-B0BCKHHVYW-&hvexpln=73&gad_source=1)
 - **Cooling System**: [Hyper 212 Halo](https://www.amazon.com/Cooler-Master-Aluminum-LGA1700-RR-S4KK-20PA-R1/dp/B0BRBWL38D/ref=asc_df_B0BRBWL38D/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=1568772745099818266&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032188&hvtargid=pla-2281435178818&psc=1&mcid=d4fab3989c66355d8e89b9f1eea5a3a7&hvocijid=1568772745099818266-B0BRBWL38D-&hvexpln=73&gad_source=1)
-
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
@@ -38,9 +38,10 @@ title: Computer Vision Projects
 
 ## Experiment : NeRF Fox
 
- **Overview:** This project creating a Neural Radiance Field (NeRF) of a fox using instant NGP. The result is a high-fidelity 3D representation of the fox that can be rendered from various viewpoints.
+**Overview:** This project creating a Neural Radiance Field (NeRF) of a fox using instant NGP. The result is a high-fidelity 3D representation of the fox that can be rendered from various viewpoints.
 
-**Technical Approach:** - 
+**Technical Approach:** -
+
 - instant NGP: For generating the NeRF.
 - Python: For scripting and automation.
 - CUDA: For GPU acceleration.
@@ -49,6 +50,20 @@ title: Computer Vision Projects
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDbLZIRgzNE?si=YA8Fk6nYM_gUgNSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## 3D-Ready
+
+**Overview:** The 3D-Ready application leverages a modern stack including React for the frontend and FastAPI for the backend, seamlessly integrated with various AWS services like Amplify, Lambda, S3, DynamoDB, and API Gateway.
+
+**Deployment:** Utilizing AWS's robust infrastructure, the application ensures high availability and scalability, offering users an efficient and reliable experience for generating and viewing 3D models.
+
+**Media Files and Links:**
+
+<div style="flex: 1; padding: 10px;">
+  <img src="images/architecture.png" alt="Product 3" style="max-width: 100%; height: auto;">
+</div>
+
+- [Link full detailed architecture](3d-ready.md)
+- [Link to 3D ready](https://3-dready.com/)
 
 ## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
 
@@ -83,7 +98,7 @@ title: Computer Vision Projects
 **Media Files and Links:**
 
 - [Link to Structure from Motion Repository](#)
- 
+
 ## Image Classifier Using PyTorch
 
 **Overview:** Rebuilt the OG PyTorch-based image classification project to accurately categorize images into predefined classes, demonstrating proficiency in deep learning and computer vision.
