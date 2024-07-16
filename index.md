@@ -17,8 +17,6 @@ title: Home
 
 ## Projects
 
-<h2>Highlighted Projects</h2>
-
 <p><strong>Computer Vision</strong> - <a href="computer_vision_ml_projects.md">Link to Computer Vision Projects page</a></p>
 
 <p><strong>CyberSecurity</strong> - <a href="cyber_security_projects.md">Link to Cyber Security Projects page</a></p>
