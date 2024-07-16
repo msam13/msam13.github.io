@@ -51,7 +51,7 @@ title: Computer Vision Projects
 - [Link full detailed architecture](3d-ready.md)
 - [Link to 3D ready](https://3-dready.com/)
 
-## Experiment : NeRO Pipe
+## Experiment : NeRO Bell
 
 **Overview:** This project involves experimenting with NeRO (Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images) to create a high-quality 3D model of a bell. The goal is to leverage NeRO's advanced neural geometry and BRDF (Bidirectional Reflectance Distribution Function) reconstruction techniques to achieve precise and realistic 3D representations of reflective objects.
 
