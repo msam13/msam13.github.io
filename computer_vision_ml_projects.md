@@ -103,16 +103,6 @@ title: Computer Vision Projects
 - COLMAP POINTCLOUD
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5iAL4NZKW_0?si=LskwNymogwJCvmCb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Camera Calibration
-
-**Overview:** This project involves calculating camera intrinsics and extrinsics using a chess board pattern for camera calibration.
-
-**Technical Approach:** The camera calibration process involves capturing images of a chess board pattern and using OpenCV functions to calculate the camera's intrinsic and extrinsic parameters.
-
-**Media Files and Links:**
-
-- [Link to Structure from Motion Repository](#)
-
 ## Image Classifier Using PyTorch
 
 **Overview:** Rebuilt the OG PyTorch-based image classification project to accurately categorize images into predefined classes, demonstrating proficiency in deep learning and computer vision.
