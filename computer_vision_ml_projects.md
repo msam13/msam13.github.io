@@ -36,20 +36,6 @@ title: Computer Vision Projects
   </div>
 </div>
 
-## Experiment : NeRF Fox
-
-**Overview:** This project creating a Neural Radiance Field (NeRF) of a fox using instant NGP. The result is a high-fidelity 3D representation of the fox that can be rendered from various viewpoints.
-
-**Technical Approach:** -
-
-- instant NGP: For generating the NeRF.
-- Python: For scripting and automation.
-- CUDA: For GPU acceleration.
-
-**Media Files and Links:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nDbLZIRgzNE?si=YA8Fk6nYM_gUgNSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## 3D-Ready
 
 **Overview:** The 3D-Ready application leverages a modern stack including React for the frontend and FastAPI for the backend, seamlessly integrated with various AWS services like Amplify, Lambda, S3, DynamoDB, and API Gateway.
@@ -64,6 +50,34 @@ title: Computer Vision Projects
 
 - [Link full detailed architecture](3d-ready.md)
 - [Link to 3D ready](https://3-dready.com/)
+
+## Experiment : NeRO Pipe
+
+**Overview:** This project involves experimenting with NeRO (Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images) to create a high-quality 3D model of a bell. The goal is to leverage NeRO's advanced neural geometry and BRDF (Bidirectional Reflectance Distribution Function) reconstruction techniques to achieve precise and realistic 3D representations of reflective objects.
+
+**Technical Approach:** -
+
+- NeRO: For neural geometry and BRDF reconstruction from multiview images.
+- Python: For scripting, data processing, and automation of the pipeline.
+- PyTorch: As the deep learning framework to implement and train the NeRO model.
+- CUDA: For GPU acceleration to enhance processing efficiency and speed.
+- Blender : For Rendering
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6TdkTVGHfC8?si=N-i4y1BwlmY7pbmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Experiment : NeRF Fox
+
+**Overview:** This project creating a Neural Radiance Field (NeRF) of a fox using instant NGP. The result is a high-fidelity 3D representation of the fox that can be rendered from various viewpoints.
+
+**Technical Approach:** -
+
+- instant NGP: For generating the NeRF.
+- Python: For scripting and automation.
+- CUDA: For GPU acceleration.
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nDbLZIRgzNE?si=YA8Fk6nYM_gUgNSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
 
