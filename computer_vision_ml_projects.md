@@ -81,13 +81,13 @@ title: Computer Vision Projects
 
 ## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
 
-**Overview:** This project involves fitting 2D images using Kolmogorov–Arnold Networks (KAN) to improve image representation and reconstruction.
+**Overview:** This project involves fitting 2D images (MNIST) using Kolmogorov–Arnold Networks (KAN) to improve image representation and reconstruction.
 
 **Technical Approach:** The project utilizes Kolmogorov–Arnold Networks for effective 2D image fitting, leveraging advanced mathematical techniques to achieve high accuracy in image reconstruction.
 
 **Media Files and Links:**
 
-- [Link to 2D Image Fitting Using KAN Repository](#)
+- [Link to 2D Image Fitting Using KAN Repository](https://github.com/msam13/Kan-ImageFitting)
 
 ## Structure from Motion
 
