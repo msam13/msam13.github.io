@@ -17,9 +17,9 @@ title: Home
 
 ## Projects
 
-<p><strong>Computer Vision</strong> - <a href="computer_vision_ml_projects.md">Link to Computer Vision Projects page</a></p>
+**Computer Vision** - [Link to Computer Vision Projects page](computer_vision_ml_projects.md)
 
-<p><strong>CyberSecurity</strong> - <a href="cyber_security_projects.md">Link to Cyber Security Projects page</a></p>
+**CyberSecurity** - [Link to Cyber Security Projects page](cyber_security_projects.md)
 
 <!-- ------------------------------------------------------------------------------------>
 
