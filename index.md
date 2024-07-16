@@ -25,23 +25,23 @@ CyberSecurity - [Link to Cyber Security Projects page](cyber_security_projects.m
 <div class="slideshow-container">
 
   <div class="mySlides fade">
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/5iAL4NZKW_0?si=nGP25-Z6RHoq-1Bx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <div class="mySlides fade">
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/nDbLZIRgzNE?si=9IpaO6kJLpT9WyiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <div class="mySlides fade">
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/AKy6pkxb6Zc?si=PonKSOAenogWhGeu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <div class="mySlides fade">
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/6TdkTVGHfC8?si=DmqPyfrNF2aKKg-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+  <div class="mySlides fade">
     <img src="images/product3.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/CVimages/build1.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/CVimages/build2.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/CVimages/build3.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/CVimages/build4.jpg" style="width:100%">
   </div>
 
   <div class="mySlides fade">
@@ -51,7 +51,6 @@ CyberSecurity - [Link to Cyber Security Projects page](cyber_security_projects.m
   <div class="mySlides fade">
     <img src="images/product1.png" style="width:100%">
   </div>
-  <!-- Add more slides as needed -->
 
 </div>
 
@@ -61,7 +60,10 @@ CyberSecurity - [Link to Cyber Security Projects page](cyber_security_projects.m
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
-  <span class="dot"></span>
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
 </div>
 
 <style>
@@ -131,6 +133,7 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
+
 <!-- ------------------------------------------------------------------------------------>
 
 ## Blogs
