@@ -25,17 +25,32 @@ CyberSecurity - [Link to Cyber Security Projects page](cyber_security_projects.m
 <div class="slideshow-container">
 
   <div class="mySlides fade">
-    <img src="images/product1.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/product2.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
     <img src="images/product3.png" style="width:100%">
   </div>
 
+  <div class="mySlides fade">
+    <img src="images/CVimages/build1.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/CVimages/build2.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/CVimages/build3.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/CVimages/build4.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/architecture.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/product1.png" style="width:100%">
+  </div>
   <!-- Add more slides as needed -->
 
 </div>
