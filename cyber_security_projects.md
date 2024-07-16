@@ -26,8 +26,12 @@ title: Cyber Security Projects
 **Technical Approach:** The project involves the use of various rootkit detection tools and manual analysis techniques. The behavior of different rootkits was studied to develop a comprehensive understanding of their functioning.
 
 **Media Files and Links:**
+<div style="flex: 1; padding: 10px;">
+  <img src="images/cyberprojects/rootkit.png" alt="Product 3" style="max-width: 100%; height: auto;">
+</div>
 
-- [FreeBSD RootKit Recon Repository](https://github.com/msam13/freeBSD_RootKitRecon)
+- [Github Repository](https://github.com/msam13/freeBSD_RootKitRecon)
+- [Project Slides](Root_kit_presentation.pdf)
 
 ## 3. SOC Analysis
 
