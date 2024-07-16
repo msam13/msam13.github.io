@@ -12,8 +12,12 @@ title: Cyber Security Projects
 **Technical Approach:** The analysis was performed using various reverse engineering tools and techniques. The firmware was dissected to uncover its inner workings and identify any exploitable vulnerabilities.
 
 **Media Files and Links:**
+<div style="flex: 1; padding: 10px;">
+  <img src="images/cyberprojects/image.png" alt="Product 3" style="max-width: 100%; height: auto;">
+</div>
 
-- [Wyze Cam Firmware Analysis Repository](https://github.com/msam13/wyze-cam-firmware-analysis)
+- [Github Repository](https://github.com/msam13/wyze-cam-firmware-analysis)
+- [Project Report](Wyze _Cam_Final_Report.pdf)
 
 ## 2. FreeBSD RootKit Recon
 
