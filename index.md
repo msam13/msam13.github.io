@@ -17,15 +17,106 @@ title: Home
 
 ## Projects
 
-| Computer Vision Projects                                                                                                     | Cyber Security Projects                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Link to Computer Vision Projects page](computer_vision_ml_projects.md)                                                      | [Link to Cyber Security Projects page](cyber_security_projects.md)                                                                                 |
-| Explore my top computer vision projects, showcasing innovative techniques and implementations to solve complex visual tasks. | Explore my top cybersecurity projects, showcasing in-depth analyses and practical implementations to enhance system security and mitigate threats. |
-| - **2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)**                                                                | - **Wyze Cam Firmware Analysis**                                                                                                                   |
-| - **Structure from Motion (using Python, Numpy, OpenCV, GPU)**                                                               | - **FreeBSD RootKit Recon**                                                                                                                        |
-| - **Camera Calibration (Calculating camera intrinsics and extrinsic using chess board)**                                     | - **SOC Analysis**                                                                                                                                 |
-| - **Digit Classifier Using PyTorch**                                                                                         | - **Penetration Testing**                                                                                                                          |
-|                                                                                                                              | - **Cloud Security - AWS**                                                                                                                         |
+Computer Vision - [Link to Computer Vision Projects page](computer_vision_ml_projects.md)
+CyberSecurity - [Link to Cyber Security Projects page](cyber_security_projects.md)
+
+<!-- ------------------------------------------------------------------------------------>
+
+<div class="slideshow-container">
+
+  <div class="mySlides fade">
+    <img src="images/product1.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/product2.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="images/product3.png" style="width:100%">
+  </div>
+
+  <!-- Add more slides as needed -->
+
+</div>
+
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>
+</div>
+
+<style>
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+}
+
+img, iframe {
+  vertical-align: middle;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+</style>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (let i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+<!-- ------------------------------------------------------------------------------------>
 
 ## Blogs
 
