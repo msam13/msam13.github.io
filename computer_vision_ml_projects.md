@@ -79,6 +79,20 @@ title: Computer Vision Projects
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nDbLZIRgzNE?si=YA8Fk6nYM_gUgNSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Experiment : Gaussian Splatting
+
+**Overview:** This project involves creating a high-fidelity 3D representation of a landscape scene using Gaussian splatting. The result is a detailed and visually appealing 3D model that can be viewed from multiple perspectives.
+
+**Technical Approach:**
+
+- Gaussian Splatting: For generating the 3D model.
+- Python: For scripting and automation.
+- CUDA: For GPU acceleration.
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rT_ksIkZR_0?si=g9jbumoC0X77yuNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 2D Image Fitting Using KAN (Kolmogorov–Arnold Networks)
 
 **Overview:** This project involves fitting 2D images (MNIST) using Kolmogorov–Arnold Networks (KAN) to improve image representation and reconstruction.
