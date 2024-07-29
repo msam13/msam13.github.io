@@ -57,16 +57,15 @@ title: Computer Vision Projects
 
 **Technical Approach:** -
 
-- NeRO: For neural geometry and BRDF reconstruction from multiview images.
 - Python: For scripting, data processing, and automation of the pipeline.
 - PyTorch: As the deep learning framework to implement and train the NeRO model.
 - CUDA: For GPU acceleration to enhance processing efficiency and speed.
 
+**Media Files and Links:**
+
 <div style="flex: 1; padding: 10px;">
   <img src="images/CVimages/NeRO.png" alt="NeRO comparison" style="max-width: 100%; height: auto;">
 </div>
-
-**Media Files and Links:**
 
 - [Link to Modified-NeRO Repository](https://github.com/msam13/NeRO-HashEncoding)
 
