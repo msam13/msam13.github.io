@@ -51,6 +51,22 @@ title: Computer Vision Projects
 - [Link full detailed architecture](3d-ready.md)
 - [Link to 3D ready](https://3-dready.com/)
 
+## Experiment : Efficient NeRO 
+
+**Overview:** The goal is to leverage Hash encoding (like InstantNGP) for geometry reconstrcution to achieve faster 3D representations of reflective objects.
+
+**Technical Approach:** -
+
+- NeRO: For neural geometry and BRDF reconstruction from multiview images.
+- Python: For scripting, data processing, and automation of the pipeline.
+- PyTorch: As the deep learning framework to implement and train the NeRO model.
+- CUDA: For GPU acceleration to enhance processing efficiency and speed.
+
+  <div style="flex: 1; padding: 10px;">
+    <img src="images/CVimages/NeRO.png" alt="Product 1" style="max-width: 100%; height: auto;">
+  </div>
+
+
 ## Experiment : NeRO Bell
 
 **Overview:** This project involves experimenting with NeRO (Neural Geometry and BRDF Reconstruction of Reflective Objects from Multiview Images) to create a high-quality 3D model of a bell. The goal is to leverage NeRO's advanced neural geometry and BRDF (Bidirectional Reflectance Distribution Function) reconstruction techniques to achieve precise and realistic 3D representations of reflective objects.
