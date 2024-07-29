@@ -62,9 +62,13 @@ title: Computer Vision Projects
 - PyTorch: As the deep learning framework to implement and train the NeRO model.
 - CUDA: For GPU acceleration to enhance processing efficiency and speed.
 
-  <div style="flex: 1; padding: 10px;">
-    <img src="images/CVimages/NeRO.png" alt="Product 1" style="max-width: 100%; height: auto;">
-  </div>
+<div style="flex: 1; padding: 10px;">
+  <img src="images/CVimages/NeRO.png" alt="NeRO comparison" style="max-width: 100%; height: auto;">
+</div>
+
+**Media Files and Links:**
+
+- [Link to Modified-NeRO Repository](https://github.com/msam13/NeRO-HashEncoding)
 
 
 ## Experiment : NeRO Bell
