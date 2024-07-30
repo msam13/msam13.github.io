@@ -69,6 +69,22 @@ title: Computer Vision Projects
 
 - [Link to Modified-NeRO Repository](https://github.com/msam13/NeRO-HashEncoding)
 
+## Experiment : Gaussian Surfels
+
+**Overview:** This project involves experimenting with Gaussian Surfels
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2SJjj3Ym4A?si=u3oE0bCJ30jPdXwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Experiment : MVSplat
+
+**Overview:** This project involves experimenting with MVSplat
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GVez62iX9I?si=dhYzR2_5qQA-8P2h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Experiment : NeRO Bell
 
