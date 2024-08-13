@@ -51,6 +51,16 @@ title: Computer Vision Projects
 - [Link full detailed architecture](3d-ready.md)
 - [Link to 3D ready](https://3-dready.com/)
 
+## Experiment : Gaussian Splatting using Acezero
+
+**Overview:** The goal was to experiment with camera calibration techniques for Gaussian splatting. I developed a data loader script to convert Acezero’s camera pose estimation and point cloud output into a format suitable for Gaussian splatting. I precisely handled homogeneous matrices to ensure accurate data transformation and alignment.
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9Ci2fr699c?si=jL94IGkOq rXTXYTH&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [Link to Acezero gaussian Splatting Repository (now private)](https://github.com/3DReady/gaussian-splatting.git)
+
 ## Experiment : Efficient NeRO 
 
 **Overview:** The goal is to leverage Hash encoding (like InstantNGP) for geometry reconstrcution to achieve faster 3D representations of reflective objects.
@@ -77,6 +87,14 @@ title: Computer Vision Projects
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z2SJjj3Ym4A?si=u3oE0bCJ30jPdXwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<!-- 
+## Experiment : Scaffold-GS
+
+**Overview:** This project involves experimenting with Scaffold Gaussian Splatting
+
+**Media Files and Links:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2SJjj3Ym4A?si=u3oE0bCJ30jPdXwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 ## Experiment : MVSplat
 
