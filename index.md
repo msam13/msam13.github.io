@@ -136,6 +136,10 @@ function showSlides() {
 </script>
 
 <!-- ------------------------------------------------------------------------------------>
+## Research
+
+- I have been accepted as a reviewer for the WiML NeurIPS workshop.
+- I have submitted an extended abstract on [evaluating the geometric consistency of text-to-3D models](Abstract.pdf)
 
 ## Blogs
 
