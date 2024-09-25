@@ -141,12 +141,6 @@ function showSlides() {
 - I have been accepted as a reviewer for the WiML NeurIPS workshop.
 - I have submitted an extended abstract on [evaluating the geometric consistency of text-to-3D models](Abstract.pdf)
 
-## Blogs
-
-Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
-
-[Read more on the Blog page](blogs.md).
-
 ## Products
 
 Developed a complete end-to-end web application and Server infrasture (Hybrid cloud) for delivering high-fidelity 3D models (3D reconstruction engine based on implicit Neural representation) of house interiors for the real estate industry.
@@ -162,6 +156,12 @@ Developed a complete end-to-end web application and Server infrasture (Hybrid cl
 
 Get 3D model of your room at <https://3-dready.com/>
 [Link to Architecture](3d-ready.md)
+
+## Blogs
+
+Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
+
+[Read more on the Blog page](blogs.md).
 
 ## Publications
 
