@@ -3,6 +3,16 @@ layout: default
 title: Home
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SBMB3MLYHJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SBMB3MLYHJ');
+</script>
+
 ## About Me
 
 <div style="display: flex; align-items: center;">
