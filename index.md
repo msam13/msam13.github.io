@@ -187,4 +187,4 @@ My research on knowledge representation, an emerging field in LLM, ML , Big Data
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/m-samridha/) · [Twitter](https://x.com/murali_samridha) · [Email](mailto:msamridha16@gmail.com) · [Resume](https://docs.google.com/document/d/16qNNTf1iqsf-tbuVGM3cxHulZHWiCrAaN-g9qMXh0Tc/edit?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/m-samridha/) · [Twitter](https://x.com/murali_samridha) · [Email](mailto:msamridha16@gmail.com) · [Resume](Samridha Murali Resume.pdf)
