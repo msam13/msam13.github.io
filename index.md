@@ -148,8 +148,11 @@ function showSlides() {
 <!-- ------------------------------------------------------------------------------------>
 ## Research
 
-- I have been accepted as a reviewer for the WiML NeurIPS workshop.
-- I have submitted an extended abstract on [evaluating the geometric consistency of text-to-3D models](Abstract.pdf)
+- Sumbitted [Evaluating Perceptual fidelity of Text to 3D Models](Evaluating Perceptual fidelity of Text to 3D Models.pdf) to CVPR 2025
+- Awarded Travel Grant for NeurIPS 2024
+- Extended abstract [evaluating the geometric consistency of text-to-3D models](Abstract.pdf) accepted WiML NeurIPS workshop 2024
+- Accepted as a reviewer for the WiML NeurIPS workshop 2024
+- Submitted an extended abstract on [evaluating the geometric consistency of text-to-3D models](Abstract.pdf)
 
 ## Products
 
