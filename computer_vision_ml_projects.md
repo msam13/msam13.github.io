@@ -36,6 +36,30 @@ title: Computer Vision Projects
   </div>
 </div>
 
+## 3D Model Reconstruction and Visualization Platform
+
+- **Transform Images to 3D Models**: Upload 2D images to generate high-fidelity 3D reconstructions with ease.
+- **Point Cloud and Video Outputs**: Backend processes images to create both PLY files and MP4 videos for visualization.
+- **Interactive 3D Viewer**: Render `.glb` models dynamically in a WebGL-powered single canvas.
+- **User-Friendly Features**: Drag-and-drop uploads, real-time status monitoring, and options to download or share generated models.
+- **Modern Tech Stack**: Built with Astro, React, FastAPI, Three.js, and Trimesh for optimal performance and scalability.
+- **Scalable Hosting**: Deployed using AWS Amplify and Vercel to ensure reliability and speed.
+- **Simplified Workflows**: Designed for an intuitive and hassle-free user experience in 3D reconstruction.
+
+Discover the power of converting images into 3D visualizations like never before!
+**[Try the PointCloud App Here](https://pointcloud.3-dready.com/)**  
+
+## Evaluating Perceptual and Geometric Fidelity of Text-to-3D Models
+
+- **Innovative Research**: Co-authored a publication for **CVPR 2025**, titled *"Evaluating Perceptual Fidelity of Text-to-3D Models"*.
+- **Dual-Fidelity Assessment**: Developed evaluation frameworks focusing on both **perceptual fidelity** (alignment with human perception) and **geometric fidelity** (accuracy of 3D structures).
+- **Multi-Modal Analysis**: Combined insights from **natural language processing**, **3D geometry**, and **computer vision** to establish comprehensive evaluation metrics.
+- **Advanced Testing Frameworks**: Designed tools and workflows to measure structural and visual consistency in machine-generated 3D models.
+- **Collaborative Effort**: Partnered with experts to push the boundaries of **text-to-3D synthesis** research.
+- **Impactful Results**: Contributed to benchmarks that enhance model quality and bridge the gap between AI-generated 3D models and real-world expectations.
+
+👉 **[Read the Paper](#)**
+
 ## 3D-Ready
 
 **Overview:** The 3D-Ready application leverages a modern stack including React for the frontend and FastAPI for the backend, seamlessly integrated with various AWS services like Amplify, Lambda, S3, DynamoDB, and API Gateway.
