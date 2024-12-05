@@ -17,7 +17,7 @@ title: Samridha
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    Hello! I'm Samridha Murali. Welcome to my portfolio. On the right is a photo of me from March 2024, when I visited San Fransico for the first time. I loved the Californian Energy, so post graduation I moved to THE SILLICON VALLEY, worked for <a href="https://scale.com/">ScaleAI</a> and co-founded <a href="http://3-dready.com/">3D-Ready</a>. A little into my past, I graduated from <a href="https://umd.edu/">Univesity of Maryland</a> with a Master's degree in Engineering (Cyber Security and Software Engineering). In University of Maryland, I worked for <a href="https://www.cattlab.umd.edu/">CATT lab</a>. During Pandemic I did a lot, including an awesome intership at <a href="https://www.honeywell.com/us/en">Honeywell</a> & <a href="https://www.hpe.com/us/en/home.html">HPE</a>, published a <a href="https://www.ijeat.org/wp-content/uploads/papers/v10i1/A17981010120.pdf"> Paper</a>, and also finished my Bachelor's degree in Computer Science and Engineer at <a href="https://www.manipal.edu/mit.html">Manipal Institute of Technology</a>. I build with LOVE ❤️ 
+    Hello! I'm Samridha Murali. Welcome to my portfolio. On the right is a photo of me from March 2024, when I visited San Fransico for the first time. I loved the Californian Energy, so post graduation I moved to THE SILLICON VALLEY, worked for <a href="https://scale.com/">ScaleAI</a>. A little into my past, I graduated from <a href="https://umd.edu/">Univesity of Maryland</a> with a Master's degree in Engineering (Cyber Security and Software Engineering). In University of Maryland, I worked for <a href="https://www.cattlab.umd.edu/">CATT lab</a>. During Pandemic I did a lot, including an awesome intership at <a href="https://www.honeywell.com/us/en">Honeywell</a> & <a href="https://www.hpe.com/us/en/home.html">HPE</a>, published a <a href="https://www.ijeat.org/wp-content/uploads/papers/v10i1/A17981010120.pdf"> Paper</a>, and also finished my Bachelor's degree in Computer Science and Engineer at <a href="https://www.manipal.edu/mit.html">Manipal Institute of Technology</a>. I build with LOVE ❤️ 
     <!-- Additional About Me content can go here. -->
   </div>
   <div style="flex: 1; padding-left: 20px;">
@@ -175,4 +175,4 @@ My research on knowledge representation, an emerging field in LLM, ML , Big Data
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/m-samridha/) · [Twitter](https://x.com/murali_samridha) · [Email](mailto:msamridha16@gmail.com) · [Resume](SamridhaMuraliResume.pdf)
+[LinkedIn](https://www.linkedin.com/in/m-samridha/) · [Twitter](https://x.com/murali_samridha) · [Email](mailto:msamridha16@gmail.com) · [Resume](SamridhaMuraliResume.pdf) · [Youtube](SamridhaMuraliResume.pdf) 
