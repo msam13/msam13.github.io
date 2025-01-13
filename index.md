@@ -167,7 +167,7 @@ function showSlides() {
 
 Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
 
-[Read more on the Blog page](blogs.md).
+[Cyber Attacks 2021 & 2022](blogs.md).
 
 ## Publications
 
