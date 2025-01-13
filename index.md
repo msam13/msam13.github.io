@@ -163,6 +163,8 @@ function showSlides() {
 
 ## Blogs
 
+[Software Testing and Quality Assurance Guide](https://qa-guide.3-dready.com/).
+
 Explore detailed analyses and insights on various cyber attacks that occurred in 2021 and 2022.
 
 [Read more on the Blog page](blogs.md).
